@@ -5,7 +5,7 @@ Given an array of integers, return the indices of the two numbers that add up
 
 ```[1, 3, 7, 9, 2] 11```
 
-``` 0, 1, 2, 3, 4 ```
+&nbsp; ```0, 1, 2, 3, 4 ```
 
 ``` return [3, 4] ```
 
