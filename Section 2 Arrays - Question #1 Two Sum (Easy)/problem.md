@@ -28,3 +28,15 @@ Given an array of integers, return the indices of the two numbers that add up
 
 ## Step 2: Write out some test cases
 
+``` [1, 3, 7, 9, 2], t = 11, return [3, 4] ```
+
+``` [1, 3, 7, 9, 2], t = 11, return null ```
+
+``` [], t = 1, return null ```
+
+``` [5], t = 5, return null ```
+
+* need at least 2 numbers
+
+``` [1, 6], t = 7, return [0, 1] ```
+
