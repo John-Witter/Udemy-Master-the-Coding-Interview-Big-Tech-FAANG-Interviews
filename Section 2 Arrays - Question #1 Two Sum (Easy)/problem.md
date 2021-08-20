@@ -1,5 +1,8 @@
 # Two Sum
 
+[Two Sum Leetcode](https://leetcode.com/problems/two-sum/) ||
+[Two Sum Udemy Video](https://www.udemy.com/course/master-the-coding-interview-big-tech-faang-interviews/learn/lecture/23454514#overview)
+
 Given an array of integers, return the indices of the two numbers that add up
     to a given target.
 
@@ -93,3 +96,11 @@ const findTwoSum = function (nums, target) {
 ## Step 5: Double Check For Errors
 
 ## Step 6: Test Code With the Test Cases
+
+* Walk through the problem line by line with a given input
+* This is tedious and takes a long time
+
+## Step 7: Analyze Space & Time Complexity
+* In Space & Time Complexity md file
+
+## Step 8: Optimize the solution
