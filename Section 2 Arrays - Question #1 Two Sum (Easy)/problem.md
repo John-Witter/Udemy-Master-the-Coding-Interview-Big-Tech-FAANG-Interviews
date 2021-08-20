@@ -4,7 +4,9 @@ Given an array of integers, return the indices of the two numbers that add up
     to a given target.
 
 ```[1, 3, 7, 9, 2] 11```
+
 ``` 0, 1, 2, 3, 4 ```
+
 ``` return [3, 4] ```
 
 ## Step 1: Verify the constraints
@@ -26,4 +28,3 @@ Given an array of integers, return the indices of the two numbers that add up
 
 ## Step 2: Write out some test cases
 
-    
