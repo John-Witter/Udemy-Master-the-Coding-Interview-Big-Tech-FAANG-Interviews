@@ -1,3 +1,5 @@
+// this is the solution I came up with before seeing their optimized solution
+
 // Old Code:
 /*
 nums = [1, 3, 7, 9, 2], t = 11
@@ -27,14 +29,14 @@ const findTwoSum = function (nums, target) {
             index = hashSum[num]
             return [index, i]
         }
-        
+
         hashSum[numberToFind] = i
     }
 
     return null
 }
 
-const nums = [1, 3, 7, 9, 2]
+const nums = [1, 3, 7, 9, 2] // best case test case
 const target = 11
 
 console.log(findTwoSum(nums, target))
