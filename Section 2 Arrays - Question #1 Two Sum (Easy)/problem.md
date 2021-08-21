@@ -104,3 +104,14 @@ const findTwoSum = function (nums, target) {
 * In Space & Time Complexity md file
 
 ## Step 8: Optimize the solution
+* Is one of the complexities (time or space) is drastically better than the other?
+    * YES: Space = O(1), Time = O(N<sup>2</sup>)
+    * Maybe you can consume more space to save on time 💡💡💡
+    * Is there a way to merge the two ``` for ``` loops or to remove the inner one?
+* What does each ``` for ``` loop do?
+    1. The outer ``` for ``` loop:
+        * Calculate the ``` numberToFind ```
+    2. The outer ``` for ``` loop:
+        * ``` nums[p2] === numberToFind ``` 
+
+* Let's use a HashMap!!!
