@@ -13,3 +13,9 @@ const findTwoSum = function (nums, target) {
     }
     return null
 }
+
+/* 
+    COMPLEXITIES:   
+        TIME : O(N) // worst-case iterate through each val in nums
+        SPACE: O(N) // worst-case calculate a key for each val in nums
+*/

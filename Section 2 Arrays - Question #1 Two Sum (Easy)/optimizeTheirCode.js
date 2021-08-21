@@ -40,3 +40,9 @@ const nums = [1, 3, 7, 9, 2] // best case test case
 const target = 11
 
 console.log(findTwoSum(nums, target))
+
+/*
+    COMPLEXITIES:
+        TIME : O(N) // worst-case iterate through each val in nums
+        SPACE: O(N) // worst-case calculate a key for each val in nums
+*/
