@@ -29,3 +29,5 @@ const findTwoSum = function (nums, target) {
 ## Space Complexity : O(1)
 * There are 3 variables total in the function
     * Constants are treated as O(1)
+    * The variables don't scale / they are static in size
+    * O(1) is optimal
