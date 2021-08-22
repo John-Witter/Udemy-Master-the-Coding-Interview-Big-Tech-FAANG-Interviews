@@ -27,4 +27,8 @@
 ```
 
 ## Big O
-    * How many steps does a function take?
+* How many steps does a function take?
+
+### Big O of findNemo: O(n) --> Linear Time
+* Each item in the input array is visited once (in the worst-case scenario)
+
