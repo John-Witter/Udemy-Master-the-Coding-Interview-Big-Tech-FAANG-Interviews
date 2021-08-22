@@ -27,4 +27,5 @@
 </br>
 
 # Rule 4: Drop Non Dominants
-* 
+* O(x<sup>2</sup> + 3x + 100 + x/2) --> O(x<sup>2</sup>)
+    * The dominant term is x<sup>2</sup> b/c this scales faster than each of the other terms
