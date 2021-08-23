@@ -2,6 +2,9 @@
 1. Readable 💎
 2. Scalable 📐
     * When the inputs grow larger, how much does the algorithm slow down? Less slow down is better.
+    * 2 things to consider:
+        1. Speed --> how much time does it take for a function to run?
+        2. Memory --> typically lower priority than speed
 ```javascript
     const nemo = ['nemo']
     const large = new Array(100).fill('nemo')
