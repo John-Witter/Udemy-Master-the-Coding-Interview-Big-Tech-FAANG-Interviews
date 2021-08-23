@@ -36,3 +36,7 @@
 ### Big O of findNemo: O(n) --> Linear Time
 * Each item in the input array is visited once (in the worst-case scenario)
 
+</br>
+</br>
+
+### premature optimization is the root of all evil: [xkcd comic](https://www.explainxkcd.com/wiki/index.php/1691:_Optimization)
